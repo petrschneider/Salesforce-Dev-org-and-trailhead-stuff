@@ -111,6 +111,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="EventHandling" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="expenseItem" />
                             <option name="selected" value="true" />
                           </MetadataEntry>

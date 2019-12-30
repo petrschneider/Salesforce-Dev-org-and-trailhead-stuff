@@ -3,11 +3,10 @@
  -->
 
 <aura:component description="WhichButton">
-    <!--c:buttonPressed-->
         <aura:attribute name="whichButton" type="String" />
 
         <p>You clicked: {!v.whichButton}</p>
 
-        <ui:button aura:id="button1" label="Click me" press="{!c.nameThatButton}"/>
-        <ui:button aura:id="button2" label="Click me too" press="{!c.nameThatButton}"/>
+        <lightning:button aura:id="button1" name="buttonname1" label="Click me" onclick="{!c.nameThatButton}"/>
+        <lightning:button aura:id="button2" name="buttonname2" label="Click me" onclick="{!c.nameThatButton}"/>
     </aura:component>

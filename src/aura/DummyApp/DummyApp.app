@@ -1,3 +1,3 @@
 <aura:application description="DummyApp">
-    <c:whichButton />
+    <c:EventHandling />
 </aura:application>
