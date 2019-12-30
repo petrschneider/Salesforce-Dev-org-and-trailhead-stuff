@@ -35,6 +35,10 @@
                       <option name="entries">
                         <list>
                           <MetadataEntry>
+                            <option name="name" value="Hello" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="Trailhead_VisualForce" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
