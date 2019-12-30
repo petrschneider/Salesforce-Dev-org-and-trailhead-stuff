@@ -119,6 +119,10 @@
                             <option name="selected" value="true" />
                           </MetadataEntry>
                           <MetadataEntry>
+                            <option name="name" value="expenses" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
                             <option name="name" value="WhichButton" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
