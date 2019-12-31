@@ -1,3 +1,3 @@
 <aura:application description="DummyApp">
-    <c:EventHandling />
+    <c:campingList />
 </aura:application>
