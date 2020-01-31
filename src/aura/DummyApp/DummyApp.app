@@ -1,3 +1,3 @@
 <aura:application description="DummyApp">
-    <p>hello</p>
+    <c:formQuickContact/>
 </aura:application>
