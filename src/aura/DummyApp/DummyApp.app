@@ -1,3 +1,3 @@
 <aura:application description="DummyApp">
-    <c:campingList />
+    <p>hello</p>
 </aura:application>

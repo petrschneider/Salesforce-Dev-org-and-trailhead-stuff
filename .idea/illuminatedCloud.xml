@@ -4,10 +4,8 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="persORG" />
-          <option name="connectionType" value="MDAPI" />
+          <option name="connectionName" value="petr.s" />
           <option name="defaultModuleName" value="persORG" />
-          <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/persORG/OfflineSymbolTable.zip" />
         </IlluminatedCloudConnection>
       </list>
     </option>

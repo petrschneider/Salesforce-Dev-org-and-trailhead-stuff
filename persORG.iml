@@ -3,8 +3,7 @@
   <component name="FacetManager">
     <facet type="IlluminatedCloud" name="Illuminated Cloud">
       <configuration>
-        <option name="connectionName" value="persORG" />
-        <option name="connectionType" value="MDAPI" />
+        <option name="connectionName" value="petr.s" />
         <option name="defaultSourceRootUrl" value="file://$MODULE_DIR$/src" />
         <option name="moduleContents">
           <ModuleContents>
@@ -136,6 +135,10 @@
                           </MetadataEntry>
                           <MetadataEntry>
                             <option name="name" value="WhichButton" />
+                            <option name="selected" value="true" />
+                          </MetadataEntry>
+                          <MetadataEntry>
+                            <option name="name" value="formQuickContact" />
                             <option name="selected" value="true" />
                           </MetadataEntry>
                         </list>
@@ -2574,7 +2577,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="IlluminatedCloud (persORG/persORG)" jdkType="IlluminatedCloud" />
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (Salesforce-Dev-org-and-trailhead-stuff/petr.s)" jdkType="IlluminatedCloud" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

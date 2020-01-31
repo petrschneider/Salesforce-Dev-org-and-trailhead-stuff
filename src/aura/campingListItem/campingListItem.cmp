@@ -1,6 +1,7 @@
 <aura:component description="campingListItem">
         <aura:attribute name="item" type="Camping_Item__c"/>
 
+        <p>hey</p>
         Name:
         <ui:outputText value="{!v.item.Name}"/>
 
